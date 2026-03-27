@@ -1,4 +1,4 @@
-<h1>Hi, I'm EDGAR <br/><a href="https://github.com/DELLKAL">Programmer</a>, <a href="https://www.linkedin.com/in/edgar-ssemusu-4bbb67339?/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@dellkali58-learn-cybersecurity">YouTuber</a></h1>
+<h1>Hi, I'm EDGAR <br/><a href="https://github.com/DELLKAL">NETWORKING</a>, <a href="https://www.linkedin.com/in/edgar-ssemusu-4bbb67339?/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@dellkali58-learn-cybersecurity">YouTuber</a></h1>
 
 <h2>👨‍💻 MY NETWORKING PROJECTS:</h2>
 
